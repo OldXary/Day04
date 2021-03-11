@@ -3,7 +3,7 @@ function main(numOne, numTwo) {
     var myQuotient = numOne / numTwo;
     
     
-        return myQuotient.toFixed(1);
+        return myQuotient;
     }
     
     console.log(main(5.0, 2.0));
